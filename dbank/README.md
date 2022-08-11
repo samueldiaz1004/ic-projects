@@ -1,5 +1,8 @@
 # dbank
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/71342016/184199990-741a1a21-5c80-4b0f-8487-f949e5d11f9d.png">
+
+
 Welcome to your new dbank project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.

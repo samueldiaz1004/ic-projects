@@ -23,7 +23,7 @@ Create Default Hello App
 ```
 $ dfx new hello
 ```
-Simulate the service in your local machine
+Simulate IC the service locally
 ```
 $ dfx start
 ```
@@ -37,7 +37,12 @@ $ npm start
 ```
 You should see your app running at `http://localhost:8080/`
 
+<p align="center">
+  <img width="960" alt="image" src="https://user-images.githubusercontent.com/71342016/184196439-9941247c-f83c-4238-918b-c348fcbb0c11.png">
+</p>
 
+### Troubleshooting
+As of now `dfx@0.9.3` creates a `package.json` with the `webpack-cli: 4.9.x`. Change it to `webpack-cli: 4.10.0` and run `npm install` again to avoid build errors.
 
-## Credits
+### Credits
 Assets and concepts of the projects provided by [Udemy Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/).

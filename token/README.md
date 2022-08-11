@@ -1,3 +1,7 @@
+# token
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/71342016/184204413-90c2eb12-a49b-49d4-bc05-5ccc71cf3889.png">
+
 # Check your Balance
 
 1. Find out your principal id:

@@ -23,7 +23,7 @@ Create Default Hello App
 ```
 $ dfx new hello
 ```
-Simulate IC the service locally
+Simulate IC locally
 ```
 $ dfx start
 ```

@@ -2,7 +2,7 @@
 Applications build for the Internet Computer
 
 <p align="center">
-  <img src="https://coinpogo.com/wp-content/uploads/2021/05/dfinity-logo-98a97c808e0759059960a3cd68afb5c9.jpg" width="400px" />
+  <img src="https://user-images.githubusercontent.com/71342016/191540906-d3dc93d8-8e71-477f-b8c4-4f51c4275f2a.png" width="400px" />
 </p>
 
 ## Requirements
